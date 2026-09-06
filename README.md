@@ -21,3 +21,7 @@ Tasks:
 
 1. Complete the TODOs in HW 5.1 and HW 5.2, and answer the written questions in the notebooks.
 2. Submit through Canvas: a PDF of each notebook plus a link to your notebook online.
+
+Credits: GRPO is from Shao et al. (2024, DeepSeekMath) and DeepSeek-R1 (2025).  HW 5.2 adapts
+Will Brown's GRPO demo gist (January 2025), which also underlies the Hugging Face LLM course
+chapter 12 exercise; see the credits cells inside each notebook for the full list.
